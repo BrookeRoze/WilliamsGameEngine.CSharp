@@ -87,6 +87,7 @@ namespace GameEngine
         {
             _msPerFrame = msPerFrame;
             Position = position;
+            //_sprite.Texture = Texture;
         }
 
         // Sets the spritesheet texture we will use for animation frames.
